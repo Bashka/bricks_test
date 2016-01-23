@@ -1,0 +1,21 @@
+{
+    "name": "bashka/bricks_test",
+    "version": "1.0",
+    "description": "",
+    "type": "bricks-module",
+    "license": "GNU-3.0",
+    "authors": [
+        {
+            "name": "Artur Sh. Mamedbekov",
+            "email": "Artur-Mamedbekov@yandex.ru"
+        }
+    ],
+    "require": {
+      "php": ">=5.5.0"
+    },
+    "autoload": {
+      "classmap": [
+        "Module.php"
+      ]
+    }
+}
